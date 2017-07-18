@@ -1,4 +1,4 @@
 Following software is requried to run this project:
-1. Node js
+1.  Node js
 2. .Net Core latest
 3. IDE like visual studio or vs code
