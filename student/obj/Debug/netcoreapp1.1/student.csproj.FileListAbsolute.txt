@@ -1,0 +1,8 @@
+d:\My Projects\CoreProjects\BasicWebApi\student\bin\Debug\netcoreapp1.1\student.deps.json
+d:\My Projects\CoreProjects\BasicWebApi\student\bin\Debug\netcoreapp1.1\student.runtimeconfig.json
+d:\My Projects\CoreProjects\BasicWebApi\student\bin\Debug\netcoreapp1.1\student.runtimeconfig.dev.json
+d:\My Projects\CoreProjects\BasicWebApi\student\bin\Debug\netcoreapp1.1\student.dll
+d:\My Projects\CoreProjects\BasicWebApi\student\bin\Debug\netcoreapp1.1\student.pdb
+d:\My Projects\CoreProjects\BasicWebApi\student\obj\Debug\netcoreapp1.1\student.AssemblyInfo.cs
+d:\My Projects\CoreProjects\BasicWebApi\student\obj\Debug\netcoreapp1.1\student.dll
+d:\My Projects\CoreProjects\BasicWebApi\student\obj\Debug\netcoreapp1.1\student.pdb
